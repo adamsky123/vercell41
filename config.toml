@@ -1,0 +1,4 @@
+baseURL = "https://freesheetmusicnewss.vercel.app"
+languageCode = "en-us"
+title = "Free World Sheet Music"
+theme = "hugo-theme-minos"
